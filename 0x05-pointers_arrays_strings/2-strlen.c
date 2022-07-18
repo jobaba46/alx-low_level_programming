@@ -6,6 +6,6 @@
 * Return: returns lenght of the sting
 */
 int _strlen(char *s)
-{   
-    return (strlen(s));
+{
+       return (strlen(s));
 }
